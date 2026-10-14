@@ -10,6 +10,7 @@
 
 [![Website](https://img.shields.io/badge/oceanraven.com-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.oceanraven.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oceanraven)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5855-128X)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oceanraven71@gmail.com)
 
 </div>
